@@ -1,0 +1,29 @@
+[
+    {
+        "model": "sci_pop.SciPopModeratorComments",
+        "pk": 1,
+        "fields": {
+          "comment": "Хороший пост, публикуем",
+          "sci_pop":   107,
+          "created_by": 1
+        }
+      },
+    {
+        "model": "sci_pop.SciPopModeratorComments",
+        "pk": 2,
+        "fields": {
+          "comment": "На доработку",
+          "sci_pop":   105,
+          "created_by": 1
+        }
+      },
+    {
+        "model": "sci_pop.SciPopModeratorComments",
+        "pk": 3,
+        "fields": {
+          "comment": "Плохой пост, отмена",
+          "sci_pop":   104,
+          "created_by": 1
+        }
+      }
+]

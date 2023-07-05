@@ -1,0 +1,11 @@
+[
+    {
+        "model": "events.EventModeratorComments",
+        "pk": 1,
+        "fields": {
+          "comment": "тестовый комментарий",
+          "event":   121,
+          "created_by": 1
+        }
+      }
+  ]

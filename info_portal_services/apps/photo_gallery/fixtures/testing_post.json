@@ -1,0 +1,314 @@
+[
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 101,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 1
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 102,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 2
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 103,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 3
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 104,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 4
+    }
+  },
+    {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 105,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 5
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 106,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 6
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 107,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 7
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 108,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 8
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 121,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 1
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 122,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+    "photo_gallery_status": 2
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 123,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 3
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 124,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 4
+    }
+  },
+    {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 125,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 5
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 126,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 6
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 127,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 7
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 128,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 8
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 131,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 1
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 132,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 2
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 133,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 3
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 134,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 4
+    }
+  },
+    {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 135,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 5
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 136,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 6
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 137,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 7
+    }
+  },
+  {
+    "model": "photo_gallery.PostInGallery",
+    "pk": 138,
+    "fields": {
+      "title": "PostInGallery test fixture title",
+      "alt_text": "PostInGallery test fixture alt text",
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "photo_gallery_status": 8
+    }
+  }
+]

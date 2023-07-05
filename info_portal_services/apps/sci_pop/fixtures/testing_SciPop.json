@@ -1,0 +1,362 @@
+[
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 101,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 1
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 102,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 2
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 103,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 3
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 104,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 4
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 105,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 5
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 106,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 6
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 107,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1, 2],
+      "subject": 1,
+      "sci_pop_status": 7
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 108,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 1,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 8
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 121,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 1
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 122,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 2
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 123,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 3
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 124,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 4
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 125,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 5
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 126,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 6
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 127,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1, 2],
+      "subject": 1,
+      "sci_pop_status": 7
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 128,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 3,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 8
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 131,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 1
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 132,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 2
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 133,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "https://www.youtube.com/watch?v=4WGvoAliszo",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 3
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 134,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : "",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 4
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 135,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 5
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 136,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 6
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 137,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1, 2],
+      "subject": 1,
+      "sci_pop_status": 7
+    }
+  },
+  {
+    "model": "sci_pop.SciPop",
+    "pk": 138,
+    "fields": {
+      "title": "SciPop test fixture title",
+      "authors": [1, 2],
+      "video" : " ",
+      "format": 1,
+      "created_by": 4,
+      "created_at": "2022-01-01 00:00:00",
+      "tags": [1,2],
+      "subject": 1,
+      "sci_pop_status": 8
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "metadata_catalog.Layers",
+    "pk": 1,
+    "fields": {
+      "name": "default",
+      "description": "default",
+      "visible": true,
+      "layer_type_id": 1,
+      "layer_group_id":  1,
+      "service_id":  1,
+      "created_at": "2022-01-01 00:00:00",
+      "created_by": 1
+    }
+  }
+]

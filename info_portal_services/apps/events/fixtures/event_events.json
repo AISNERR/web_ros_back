@@ -1,0 +1,98 @@
+[
+	{
+      "model": "events.Events",
+      "pk": 1,
+      "fields": {
+			"id": 1,
+			"title": "Testing event 1",
+			"description": "Created by user 1",
+			"short_description": "Short description of testing event",
+			"place": "SomeCity, SomeWhere street",
+			"date_start": "2022-01-01 00:00:00",
+			"date_end": "2022-01-02 00:00:00",
+			"email": "contact_email@example.com",
+			"phone": "",
+			"event_source": "https://www.example.com/",
+			"organizer": "organizer name",
+			"address": "",
+			"image": "",
+			"created_at": "2022-05-20T08:40:43.741332Z",
+			"published_at": null,
+			"modified_at": "2022-05-20T08:40:43.741397Z",
+			"event_format": 1,
+			"event_type": 1,
+			"event_status": 1,
+			"subject": 3,
+			"created_by": 1,
+			"modified_by": null,
+			"tags": [
+				1,
+				2
+			]
+		}
+	},
+	{
+		"model": "events.Events",
+		"pk": 2,
+		"fields": {
+			"id": 2,
+			"title": "Testing event 2",
+			"description": "Created by user 2",
+			"short_description": "Short description of testing event",
+			"place": "SomeCity, SomeWhere street",
+			"date_start": "2022-01-01 00:00:00",
+			"date_end": "2022-01-02 00:00:00",
+			"email": "contact_email@example.com",
+			"phone": "",
+			"event_source": "https://www.example.com/",
+			"organizer": "organizer name",
+			"address": "",
+			"image": "",
+			"created_at": "2022-05-20T08:40:43.741332Z",
+			"published_at": null,
+			"modified_at": "2022-05-20T08:40:43.741397Z",
+			"event_format": 1,
+			"event_type": 1,
+			"event_status": 1,
+			"subject": 3,
+			"created_by": 2,
+			"modified_by": null,
+			"tags": [
+				1,
+				2
+			]
+		}
+	},
+	{
+		"model": "events.Events",
+		"pk": 3,
+		"fields": {
+			"id": 3,
+			"title": "Published event 3",
+			"description": "Created by user 1",
+			"short_description": "Short description of testing event",
+			"place": "SomeCity, SomeWhere street",
+			"date_start": "2022-01-01 00:00:00",
+			"date_end": "2022-01-02 00:00:00",
+			"email": "contact_email@example.com",
+			"phone": "",
+			"event_source": "https://www.example.com/",
+			"organizer": "organizer name",
+			"address": "",
+			"image": "",
+			"created_at": "2022-05-20T08:40:43.741332Z",
+			"published_at": null,
+			"modified_at": "2022-05-20T08:40:43.741397Z",
+			"event_format": 1,
+			"event_type": 1,
+			"event_status": 6,
+			"subject": 3,
+			"created_by": 1,
+			"modified_by": null,
+			"tags": [
+				1,
+				2
+			]
+		}
+	}
+]

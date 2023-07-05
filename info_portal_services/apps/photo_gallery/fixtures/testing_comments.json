@@ -1,0 +1,29 @@
+[
+    {
+        "model": "photo_gallery.GalleryModeratorComments",
+        "pk": 1,
+        "fields": {
+          "comment": "Хороший пост, публикуем",
+          "photo":   107,
+          "created_by": 1
+        }
+      },
+    {
+        "model": "photo_gallery.GalleryModeratorComments",
+        "pk": 2,
+        "fields": {
+          "comment": "На доработку",
+          "photo":   105,
+          "created_by": 1
+        }
+      },
+    {
+        "model": "photo_gallery.GalleryModeratorComments",
+        "pk": 3,
+        "fields": {
+          "comment": "Плохой пост, отмена",
+          "photo":   104,
+          "created_by": 1
+        }
+      }
+]

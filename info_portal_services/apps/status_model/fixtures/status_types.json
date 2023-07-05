@@ -1,0 +1,58 @@
+[
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 1,
+      "fields": {
+        "status": "created"
+      }
+    },
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 2,
+      "fields": {
+        "status": "ready_for_review"
+      }
+    },
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 3,
+      "fields": {
+        "status": "review"
+      }
+    },
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 4,
+      "fields": {
+        "status": "declined"
+      }
+    },
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 5,
+      "fields": {
+        "status": "returned"
+      }
+    },
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 6,
+      "fields": {
+        "status": "approved"
+      }
+    },
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 7,
+      "fields": {
+        "status": "published"
+      }
+    },
+    {
+      "model": "status_model.StatusTypes",
+      "pk": 8,
+      "fields": {
+        "status": "archived"
+      }
+    }
+  ]

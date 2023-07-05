@@ -1,0 +1,128 @@
+[
+    {
+      "model": "subjects.Subjects",
+      "pk": 1,
+      "fields": {
+        "title": "Метеорология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 2,
+      "fields": {
+        "title": "Гидрология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 3,
+      "fields": {
+        "title": "Люди"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 4,
+      "fields": {
+        "title": "Биология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 5,
+      "fields": {
+        "title": "Микология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 6,
+      "fields": {
+        "title": "Ихтиология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 7,
+      "fields": {
+        "title": "Зоология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 8,
+      "fields": {
+        "title": "Микробиология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 9,
+      "fields": {
+        "title": "Геоэкология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 10,
+      "fields": {
+        "title": "Гидрохимия"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 11,
+      "fields": {
+        "title": "Химия"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 12,
+      "fields": {
+        "title": "Гидрометеорология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 13,
+      "fields": {
+        "title": "Геология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 14,
+      "fields": {
+        "title": "Гидрография"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 15,
+      "fields": {
+        "title": "Геофизика"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 16,
+      "fields": {
+        "title": "Геодезия"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 17,
+      "fields": {
+        "title": "Археология"
+      }
+    },
+    {
+      "model": "subjects.Subjects",
+      "pk": 18,
+      "fields": {
+        "title": "Экология"
+      }
+    }
+  ]

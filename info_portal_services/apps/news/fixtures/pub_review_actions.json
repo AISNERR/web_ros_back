@@ -1,0 +1,23 @@
+[
+    {
+      "model": "news.ReviewActions",
+      "pk": 1,
+      "fields": {
+        "name": "approve"
+      }
+    },
+    {
+      "model": "news.ReviewActions",
+      "pk": 2,
+      "fields": {
+        "name": "decline"
+      }
+    },
+    {
+      "model": "news.ReviewActions",
+      "pk": 3,
+      "fields": {
+        "name": "return"
+      }
+    }
+]

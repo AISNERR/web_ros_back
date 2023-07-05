@@ -1,0 +1,51 @@
+[
+    {
+        "model": "tags.Tags",
+        "pk": 1,
+        "fields": {
+          "title": "Морж"
+        }
+    },
+    {
+        "model": "tags.Tags",
+        "pk": 2,
+        "fields": {
+          "title": "Кит"
+        }
+    },
+    {
+        "model": "tags.Tags",
+        "pk": 3,
+        "fields": {
+          "title": "Белый медведь"
+        }
+    },
+    {
+        "model": "tags.Tags",
+        "pk": 4,
+        "fields": {
+          "title": "Арктика"
+        }
+    },
+    {
+        "model": "tags.Tags",
+        "pk": 5,
+        "fields": {
+          "title": "Сибирь"
+        }
+    },
+    {
+        "model": "tags.Tags",
+        "pk": 6,
+        "fields": {
+          "title": "Животные"
+        }
+    },
+    {
+        "model": "tags.Tags",
+        "pk": 7,
+        "fields": {
+          "title": "Ледокол"
+        }
+    }
+]

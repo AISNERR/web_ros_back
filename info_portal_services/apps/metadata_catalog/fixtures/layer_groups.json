@@ -1,0 +1,11 @@
+[
+  {
+    "model": "metadata_catalog.LayerGroups",
+    "pk": 1,
+    "fields": {
+      "name": "default",
+      "description": "default",
+      "visible": true
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "model": "metadata_catalog.Services",
+    "pk": 1,
+    "fields": {
+      "name": "default",
+      "description": "default",
+      "url":"",
+      "service_type": "default"
+    }
+  }
+]

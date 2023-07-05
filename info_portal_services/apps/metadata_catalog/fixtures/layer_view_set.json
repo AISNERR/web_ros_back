@@ -1,0 +1,11 @@
+[
+    {
+      "model": "metadata_catalog.LayersViewSet",
+      "pk": 1,
+      "fields": {
+        "name": "root",
+        "layers": [],
+        "layers_tree": ""
+      }
+    }
+]

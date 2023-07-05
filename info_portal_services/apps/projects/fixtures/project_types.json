@@ -1,0 +1,9 @@
+[
+  {
+    "model": "projects.ProjectTypes",
+    "pk": 1,
+    "fields": {
+      "alias": "oil_spills"
+    }
+  }
+]

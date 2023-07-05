@@ -1,0 +1,16 @@
+[
+    {
+        "model": "sci_pop.Authors",
+        "pk": 1,
+        "fields": {
+          "full_name": "Valera"
+        }
+    },
+    {
+        "model": "sci_pop.Authors",
+        "pk": 2,
+        "fields": {
+          "full_name": "Tania"
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "model": "sci_pop.PopFormat",
+        "pk": 1,
+        "fields": {
+          "title": "Лекция"
+        }
+    },
+    {
+        "model": "sci_pop.PopFormat",
+        "pk": 2,
+        "fields": {
+          "title": "Семинар"
+        }
+    },
+    {
+        "model": "sci_pop.PopFormat",
+        "pk": 3,
+        "fields": {
+          "title": "Интервью"
+        }
+    }
+]

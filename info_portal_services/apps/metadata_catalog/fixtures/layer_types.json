@@ -1,0 +1,44 @@
+[
+    {
+      "model": "metadata_catalog.LayerTypes",
+      "pk": 1,
+      "fields": {
+        "name": "wms"
+      }
+    },
+    {
+      "model": "metadata_catalog.LayerTypes",
+      "pk": 2,
+      "fields": {
+        "name": "wfs"
+      }
+    },
+    {
+      "model": "metadata_catalog.LayerTypes",
+      "pk": 3,
+      "fields": {
+        "name": "wcs"
+      }
+    },
+    {
+      "model": "metadata_catalog.LayerTypes",
+      "pk": 4,
+      "fields": {
+        "name": "geotiff"
+      }
+    },
+    {
+      "model": "metadata_catalog.LayerTypes",
+      "pk": 5,
+      "fields": {
+        "name": "shapefile"
+      }
+    },
+    {
+      "model": "metadata_catalog.LayerTypes",
+      "pk": 6,
+      "fields": {
+        "name": "geojson"
+      }
+    }
+]

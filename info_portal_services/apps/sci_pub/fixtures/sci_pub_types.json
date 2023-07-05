@@ -1,0 +1,23 @@
+[
+    {
+        "model": "sci_pub.PubType",
+        "pk": 1,
+        "fields": {
+          "title": "Журнал"
+        }
+    },
+    {
+        "model": "sci_pub.PubType",
+        "pk": 2,
+        "fields": {
+          "title": "Портал"
+        }
+    },
+    {
+        "model": "sci_pub.PubType",
+        "pk": 3,
+        "fields": {
+          "title": "Книга"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "model": "events.EventTypes",
+      "pk": 1,
+      "fields": {
+        "event_type": "seminar",
+        "name": "семинар"
+      }
+    },
+    {
+      "model": "events.EventTypes",
+      "pk": 2,
+      "fields": {
+        "event_type": "conference",
+        "name": "конференция"
+      }
+    },
+    {
+      "model": "events.EventTypes",
+      "pk": 3,
+      "fields": {
+        "event_type": "lecture",
+        "name": "лекция"
+      }
+    }
+]

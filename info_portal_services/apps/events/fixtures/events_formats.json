@@ -1,0 +1,18 @@
+[
+    {
+      "model": "events.EventFormats",
+      "pk": 1,
+      "fields": {
+        "event_format": "online",
+        "name": "онлайн"
+      }
+    },
+    {
+      "model": "events.EventFormats",
+      "pk": 2,
+      "fields": {
+        "event_format": "offline",
+        "name": "офлайн"
+      }
+    }
+]

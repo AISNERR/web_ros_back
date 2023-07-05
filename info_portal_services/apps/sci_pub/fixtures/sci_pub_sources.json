@@ -1,0 +1,51 @@
+[
+    {
+        "model": "sci_pub.Source",
+        "pk": 1,
+        "fields": {
+          "title": "Статья"
+        }
+    },
+    {
+        "model": "sci_pub.Source",
+        "pk": 2,
+        "fields": {
+          "title": "Диссертация"
+        }
+    },
+    {
+        "model": "sci_pub.Source",
+        "pk": 3,
+        "fields": {
+          "title": "Научная работа"
+        }
+    },
+    {
+        "model": "sci_pub.Source",
+        "pk": 4,
+        "fields": {
+          "title": "Реферат"
+        }
+    },
+    {
+        "model": "sci_pub.Source",
+        "pk": 5,
+        "fields": {
+          "title": "Научно-исследовательские"
+        }
+    },
+    {
+        "model": "sci_pub.Source",
+        "pk": 6,
+        "fields": {
+          "title": "Доклад"
+        }
+    },
+    {
+        "model": "sci_pub.Source",
+        "pk": 7,
+        "fields": {
+          "title": "Тезис"
+        }
+    }
+]
